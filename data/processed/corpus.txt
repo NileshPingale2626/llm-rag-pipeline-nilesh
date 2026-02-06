@@ -1,0 +1,9 @@
+SAP CPQ (Configure Price Quote) is a cloud-based solution that helps sales teams configure complex products, apply pricing rules, and generate accurate quotes. It integrates with CRM and ERP systems to streamline the quote-to-cash process.
+
+Retrieval-Augmented Generation (RAG) is an approach that combines information retrieval with large language models. Instead of relying only on parametric memory, the model retrieves relevant documents from an external knowledge base and uses them as context to generate more accurate and grounded responses.
+
+MLOps is the practice of applying DevOps principles to machine learning systems. It focuses on reproducibility, automation, monitoring, and reliable deployment of models into production environments.
+
+FastAPI is a modern, high-performance web framework for building APIs with Python. It is built on top of Starlette and Pydantic and is well-suited for serving ML models and LLM-based applications.
+
+Vector databases such as FAISS or ChromaDB store embeddings and enable efficient similarity search. They are a core component of RAG systems, allowing fast retrieval of relevant context for a given query.
