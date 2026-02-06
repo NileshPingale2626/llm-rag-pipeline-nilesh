@@ -16,9 +16,9 @@ This project is designed to reflect real-world AI engineering workflows used in 
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔹 LLM Components
+### LLM Components
 - Document chunking & preprocessing  
 - Embedding generation (Hugging Face / OpenAI)  
 - Vector indexing (FAISS or ChromaDB)  
@@ -30,33 +30,33 @@ This project is designed to reflect real-world AI engineering workflows used in 
   - Token cost  
   - Accuracy  
 
-### 🔹 Backend API (FastAPI)
+###  Backend API (FastAPI)
 - `/query` endpoint for RAG responses  
 - `/evaluate` endpoint for automated testing  
 - `/health` endpoint for monitoring  
 
-### 🔹 MLOps & CI/CD
+### MLOps & CI/CD
 - GitHub Actions workflow for:
   - Linting  
   - Unit tests  
   - Docker build  
   - Deployment pipeline  
 
-### 🔹 Docker & Deployment
+###  Docker & Deployment
 - Dockerfile for reproducible builds  
 - docker-compose for local vector DB + API  
 
-### 🔹 Agents & Tools
+###  Agents & Tools
 - LangChain-based tool agent  
 - Retrieval + LLM + tool orchestration  
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 (Include the folder structure from above)
 
 ---
 
-## 🧪 Running Locally
+## Running Locally
 
